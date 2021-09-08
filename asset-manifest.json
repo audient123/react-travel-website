@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-travel-website/static/css/main.b2a8cf19.chunk.css",
+    "main.js": "/react-travel-website/static/js/main.c18c7600.chunk.js",
+    "main.js.map": "/react-travel-website/static/js/main.c18c7600.chunk.js.map",
+    "runtime-main.js": "/react-travel-website/static/js/runtime-main.f48701f1.js",
+    "runtime-main.js.map": "/react-travel-website/static/js/runtime-main.f48701f1.js.map",
+    "static/js/2.3e14dff0.chunk.js": "/react-travel-website/static/js/2.3e14dff0.chunk.js",
+    "static/js/2.3e14dff0.chunk.js.map": "/react-travel-website/static/js/2.3e14dff0.chunk.js.map",
+    "static/js/3.f98e6b7e.chunk.js": "/react-travel-website/static/js/3.f98e6b7e.chunk.js",
+    "static/js/3.f98e6b7e.chunk.js.map": "/react-travel-website/static/js/3.f98e6b7e.chunk.js.map",
+    "index.html": "/react-travel-website/index.html",
+    "static/css/main.b2a8cf19.chunk.css.map": "/react-travel-website/static/css/main.b2a8cf19.chunk.css.map",
+    "static/js/2.3e14dff0.chunk.js.LICENSE.txt": "/react-travel-website/static/js/2.3e14dff0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-travel-website/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/react-travel-website/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/react-travel-website/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/react-travel-website/static/media/img-9.f97f588f.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/react-travel-website/static/media/video-2.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f48701f1.js",
+    "static/js/2.3e14dff0.chunk.js",
+    "static/css/main.b2a8cf19.chunk.css",
+    "static/js/main.c18c7600.chunk.js"
+  ]
+}
